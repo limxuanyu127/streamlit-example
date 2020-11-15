@@ -2,3 +2,4 @@ pandas==1.0.5
 numpy==1.18.5
 faiss==1.5.3
 streamlit==0.71.0
+intel-openmp=2020.0.133
